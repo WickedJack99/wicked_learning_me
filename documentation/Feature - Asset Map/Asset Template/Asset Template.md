@@ -1,0 +1,2 @@
+#asset #template #asset_template
+An asset template contains the definition of an asset and is used to create an asset. Before being able to add an asset to an asset map, it has to be defined as template. When creating an asset from an asset template, one can choose if that asset should stay attached or detached from the template. If attached, changes made to the template, will also be made to the asset. If detached, changes made to the template, won't be applied to the asset.

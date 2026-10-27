@@ -1,0 +1,2 @@
+#asset #graph #state_graph
+An asset will have different states which will be modeled as a graph. A node will be representing a state where dragging edges and then clicking on those edges will allow to define conditions when the asset will transform from one state to the other.
