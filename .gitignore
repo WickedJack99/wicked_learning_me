@@ -1,0 +1,29 @@
+# Obsidian
+documentation/.trash/
+documentation/.obsidian/
+
+# Rust
+/backend_rust/target/
+
+# React / Vite
+/frontend/node_modules/
+/frontend/dist/
+*.tsbuildinfo
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Testing
+/frontend/coverage/
+
+# IDE (optional)
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
